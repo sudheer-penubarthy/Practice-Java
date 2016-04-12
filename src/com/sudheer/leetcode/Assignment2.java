@@ -6,4 +6,12 @@ package com.sudheer.leetcode;
  * https://leetcode.com/problems/add-two-numbers/
  */
 public class Assignment2 {
+    public static void main(String[] args) {
+
+    }
+
+/*    public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
+
+        return l1;
+    }*/
 }
